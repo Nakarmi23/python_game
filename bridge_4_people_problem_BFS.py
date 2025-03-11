@@ -152,3 +152,4 @@ def backtrace(node):
 
 root = Node(BridgePuzzle())
 print(BFS(root))
+
